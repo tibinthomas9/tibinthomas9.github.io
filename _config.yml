@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "http://tibinthomas9.github.io"
+url: "https://tibinthomas9.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -124,7 +124,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
- disqus: "juusosblog"
+# disqus: "juusosblog"
 # If you want to use just-comments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
 
