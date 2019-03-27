@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title:  Tibin Thomas
 subtitle: iOS Developer | Open Source Enthusiast
 ---
