@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 title:  Tibin Thomas
 subtitle: iOS Developer | Open Source Enthusiast
 ---
