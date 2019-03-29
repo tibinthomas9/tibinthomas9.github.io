@@ -132,6 +132,8 @@ Tuples are useful for temporary groups of related values. They’re not suited t
 ## Optionals
 
 You use  _optionals_  in situations where a value may be absent. An optional represents two possibilities: Either there  _is_  a value, and you can unwrap the optional to access that value, or there  _isn’t_  a value at all.
+
+
     	
 
 	    
@@ -141,6 +143,6 @@ You use  _optionals_  in situations where a value may be absent. An optional rep
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjU3MDMxNywyMDc2OTYyNzM1LC0xOT
-U4NTk0NDA5LDU4MTAzNTU3MV19
+eyJoaXN0b3J5IjpbLTExMDYxMTM1MjEsLTE2NjU3MDMxNywyMD
+c2OTYyNzM1LC0xOTU4NTk0NDA5LDU4MTAzNTU3MV19
 -->
