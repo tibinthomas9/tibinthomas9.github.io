@@ -37,6 +37,9 @@ image: /img/hello_world.jpeg
 
 
  
+
+
+
 #  Swift Language
 Swift includes modern features like type inference, optionals, and closures, which make the syntax concise yet expressive. Swift ensures your code is fast and efficient, while its memory safety and native error handling make the language safe by design. Writing Swift code is interactive and fun in Swift Playgrounds, playgrounds in Xcode, and REPL.
 
@@ -200,8 +203,8 @@ The difference between assertions and preconditions is in when they’re checked
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDU0MTA2MywtMTgzOTM4MzQzNSwxMj
-MyNzkwMzk3LDEzNjg1MTEyOSwyNTIzMDM3MzIsLTQxODUyODUz
-Myw1NzA2ODYwMDcsLTE2NjU3MDMxNywyMDc2OTYyNzM1LC0xOT
-U4NTk0NDA5LDU4MTAzNTU3MV19
+eyJoaXN0b3J5IjpbNjM0NzY1NzEzLC0xODM5MzgzNDM1LDEyMz
+I3OTAzOTcsMTM2ODUxMTI5LDI1MjMwMzczMiwtNDE4NTI4NTMz
+LDU3MDY4NjAwNywtMTY2NTcwMzE3LDIwNzY5NjI3MzUsLTE5NT
+g1OTQ0MDksNTgxMDM1NTcxXX0=
 -->
