@@ -3,7 +3,11 @@
 
 ---
 
-<h1 id="ios-rich-notifications-and-how-to-play-a-youtube-video-within-a-notification">iOS Rich Notifications and how to play a youtube video within a notification</h1>
+<hr>
+<h2 id="layout-posttitle-ios-rich-notifications-and-how-to-play-a-youtube-video-within-a-notificationimage-imghello_world.jpeg">layout: post<br>
+title: iOS Rich Notifications and how to play a youtube video within a notification!<br>
+image: /img/hello_world.jpeg</h2>
+<h1 id="section"></h1>
 <p><a href="https://medium.com/@tibinmutholy?source=post_header_lockup"><img src="https://cdn-images-1.medium.com/fit/c/50/50/1*iCzkSKlEB0uod0UoJnkBbQ.jpeg" alt="Go to the profile of Tibin Thomas"></a></p>
 <p><a href="https://medium.com/@tibinmutholy">Tibin Thomas</a></p>
 <p>Mar 15</p>
