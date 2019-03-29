@@ -3,9 +3,6 @@
 
 ---
 
-<h4 id="section">_</h4>
-<p>Only you can see this message_</p>
-<p>This story is eligible to be part of the metered paywall.  <a href="https://help.medium.com/hc/en-us/articles/360018834314">Learn more</a></p>
 <h1 id="ios-rich-notifications-and-how-to-play-a-youtube-video-within-a-notification">iOS Rich Notifications and how to play a youtube video within a notification</h1>
 <p><a href="https://medium.com/@tibinmutholy?source=post_header_lockup"><img src="https://cdn-images-1.medium.com/fit/c/50/50/1*iCzkSKlEB0uod0UoJnkBbQ.jpeg" alt="Go to the profile of Tibin Thomas"></a></p>
 <p><a href="https://medium.com/@tibinmutholy">Tibin Thomas</a></p>
@@ -18,7 +15,7 @@
 <li><strong>Notification Actions</strong>: provides the actions that the user can perform to interact with the notification message. They are presented as buttons. Available via  <a href="http://www.thinkandbuild.it/interactive-notifications-with-notification-actions/"><strong>UIUserNotificationAction</strong></a><strong>.</strong></li>
 <li><strong>Text Input in Notification Actions:</strong> Provides the user the ability to input text within a notification.Implemented via  <a href="https://developer.apple.com/documentation/usernotifications/untextinputnotificationaction">UNTextInputNotificationAction</a>.</li>
 <li><strong>Grouped Notifications</strong>: Ability to group similar notification into a single group so that the notification center remains clean and also to provide more control and information to the user.iOS automatically groups notifications or you can implement your custom grouping via  <a href="https://medium.com/swift-india/lets-take-quick-dive-in-grouped-notifications-5d41af9d6463"><strong>threadIdentifier</strong></a>.</li>
-<li><strong>Silent Notifications:</strong> Can be used to update contents in the app silently in the background.These type of notifications does not display an alert, play a sound, or badge your app’s icon.Implemented via  <code>[**content-available**](https://developer.apple.com/documentation/usernotifications/setting_up_a_remote_notification_server/pushing_updates_to_your_app_silently)</code>key.</li>
+<li><strong>Silent Notifications:</strong> Can be used to update contents in the app silently in the background.These type of notifications does not display an alert, play a sound, or badge your app’s icon.Implemented via  <a href="https://developer.apple.com/documentation/usernotifications/setting_up_a_remote_notification_server/pushing_updates_to_your_app_silently">content-available</a> key.</li>
 <li><strong>Notification Attachments</strong>: Attach audio, image, or video content together in an alert-based notification.Implemented via  <a href="https://developer.apple.com/documentation/usernotifications/unnotificationattachment"><strong>UNNotificationAttachment</strong></a>  and  <a href="https://developer.apple.com/documentation/usernotifications/unnotificationserviceextension"><strong>UNNotificationServiceExtension</strong></a><strong>.</strong></li>
 <li><strong>Custom Notification UI:</strong>  Customise the UI of the notification.Implemented via  <a href="https://developer.apple.com/documentation/usernotificationsui/unnotificationcontentextension"><strong>UNNotificationContentExtension</strong></a><strong>.</strong></li>
 <li><strong>Interactive Controls</strong>  <strong>in Custom UI</strong>: Ability to add custom controls within the UI so that users can  <a href="https://developer.apple.com/documentation/usernotificationsui/customizing_the_appearance_of_notifications">interact</a>  within the notifications.</li>
