@@ -41,7 +41,7 @@ Swift includes modern features like type inference, optionals, and closures, whi
  
 
 	> **let** : constant  
-	> **var**:  variable
+	> **var**: variable
 
  -    **Type Annotations**
 Telling the type of a variable or constant
@@ -118,6 +118,6 @@ Swift  offers the programmer a rich assortment of built-in as well as user-defin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzM0MjIxMDEsMjA3Njk2MjczNSwtMT
-k1ODU5NDQwOSw1ODEwMzU1NzFdfQ==
+eyJoaXN0b3J5IjpbNTA5NDQyMTY1LDIwNzY5NjI3MzUsLTE5NT
+g1OTQ0MDksNTgxMDM1NTcxXX0=
 -->
