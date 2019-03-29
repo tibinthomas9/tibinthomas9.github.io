@@ -29,7 +29,6 @@ image: /img/hello_world.jpeg
     Curent version: swift 5.0
     open source
     modern and better performance than objective c
-  
   - **objective** c    (header(.h) and implementation (.m) files ) 
     Programming language for NeXTSTEP OS
  - **c and c++** (limited)
@@ -200,7 +199,7 @@ The difference between assertions and preconditions is in when they’re checked
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzE2Mzc0MSwxMjMyNzkwMzk3LDEzNj
-g1MTEyOSwyNTIzMDM3MzIsNTcwNjg2MDA3LC0xNjY1NzAzMTcs
-ODI2NjIzMDY5LDE3MDc0NDI5MDldfQ==
+eyJoaXN0b3J5IjpbLTE4MzkzODM0MzUsMTIzMjc5MDM5NywxMz
+Y4NTExMjksMjUyMzAzNzMyLDU3MDY4NjAwNywtMTY2NTcwMzE3
+LDgyNjYyMzA2OSwxNzA3NDQyOTA5XX0=
 -->
