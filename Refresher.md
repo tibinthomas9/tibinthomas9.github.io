@@ -132,6 +132,10 @@ Tuples are useful for temporary groups of related values. They’re not suited t
 ## Optionals
 
 You use  _optionals_  in situations where a value may be absent. An optional represents two possibilities: Either there  _is_  a value, and you can unwrap the optional to access that value, or there  _isn’t_  a value at all.
+
+### Optional Binding
+
+You use  _optional binding_  to find out whether an optional contains a value, and if so, to make that value available as a temporary constant or variable. Optional binding can be used with  `if`  and  `while`  statements to check for a value inside an optional, and to extract that value into a constant or variable, as part of a single action
     	
 
 	    
@@ -141,6 +145,6 @@ You use  _optionals_  in situations where a value may be absent. An optional rep
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjU3MDMxNywxNzA3NDQyOTA5LDUwOT
-Q0MjE2NSwyMDc2OTYyNzM1XX0=
+eyJoaXN0b3J5IjpbMzk4NzI2NDQzLC0xNjY1NzAzMTcsMTcwNz
+Q0MjkwOSw1MDk0NDIxNjUsMjA3Njk2MjczNV19
 -->
