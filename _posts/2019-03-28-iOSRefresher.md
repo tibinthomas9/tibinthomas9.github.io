@@ -7,9 +7,12 @@ image: /img/hello_world.jpeg
 
 ***Must Refer***
 
-[swift apple documentation](https://developer.apple.com/documentation/swift)
-[swift lang documentation](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
-[swift tutorials point](https://www.tutorialspoint.com/swift/index.htm)
+    [swift apple documentation](https://developer.apple.com/documentation/swift)
+    
+    [swift lang documentation](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+    
+    [swift tutorials point](https://www.tutorialspoint.com/swift/index.htm)
+
 ### iOS Basic Info
 
  - iPhone OS(first name)
@@ -197,8 +200,8 @@ The difference between assertions and preconditions is in when they’re checked
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDQzNjc2OSwxMjMyNzkwMzk3LDEzNj
-g1MTEyOSwyNTIzMDM3MzIsLTQxODUyODUzMyw1NzA2ODYwMDcs
-LTE2NjU3MDMxNyw4MjY2MjMwNjksNTA5NDQyMTY1LDIwNzY5Nj
-I3MzVdfQ==
+eyJoaXN0b3J5IjpbLTEyNTgyMTY2MjUsMTIzMjc5MDM5NywxMz
+Y4NTExMjksMjUyMzAzNzMyLC00MTg1Mjg1MzMsNTcwNjg2MDA3
+LC0xNjY1NzAzMTcsODI2NjIzMDY5LDUwOTQ0MjE2NSwyMDc2OT
+YyNzM1XX0=
 -->
