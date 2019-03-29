@@ -185,6 +185,12 @@ Swift automatically propagates errors out of their current scope until they’re
 
 A  `do`  statement creates a new containing scope, which allows errors to be propagated to one or more  `catch`  clauses.
 
+## Assertions and Preconditions
+
+_Assertions_  and  _preconditions_  are checks that happen at runtime. You use them to make sure an essential condition is satisfied before executing any further code. If the Boolean condition in the assertion or precondition evaluates to  `true`, code execution continues as usual. If the condition evaluates to  `false`, the current state of the program is invalid; code execution ends, and your app is terminated.
+
+The difference between assertions and preconditions is in when they’re checked: Assertions are checked only in debug builds, but preconditions are checked in both debug and production builds.
+
 	    
 
 
@@ -194,7 +200,7 @@ A  `do`  statement creates a new containing scope, which allows errors to be pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyMzAzNzMyLC00MTg1Mjg1MzMsNTcwNj
-g2MDA3LC0xNjY1NzAzMTcsMTcwNzQ0MjkwOSw1MDk0NDIxNjUs
-MjA3Njk2MjczNV19
+eyJoaXN0b3J5IjpbMTM2ODUxMTI5LDI1MjMwMzczMiwtNDE4NT
+I4NTMzLDU3MDY4NjAwNywtMTY2NTcwMzE3LDE3MDc0NDI5MDks
+NTA5NDQyMTY1LDIwNzY5NjI3MzVdfQ==
 -->
