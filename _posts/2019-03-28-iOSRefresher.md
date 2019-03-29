@@ -21,11 +21,13 @@ image: /img/hello_world.jpeg
 ### Languages
 
  - **swift**
+
     Curent version: swift 5.0
     open source
     modern and better performance than objective c
     
   - **objective** c    (header(.h) and implementation (.m) files ) 
+
   Programming language for NeXTSTEP OS
  - **c and c++** (limited)
 
