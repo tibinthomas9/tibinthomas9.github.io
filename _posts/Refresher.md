@@ -75,9 +75,7 @@ Telling the type of a variable or constant
 	 Nor can they begin with a number, although numbers may be included elsewhere within the name
 
 
-  
-
- - ## Data Types
+  - ## Data Types
 
 	Based on the data type of a variable, the operating system allocates memory and decides what can be stored in the reserved memory.
 
@@ -127,6 +125,10 @@ _Tuples_  group multiple values into a single compound value. The values within 
     2.  // http404Error is of type (Int, String), and equals (404, "Not Found")
 
 Tuples are useful for temporary groups of related values. They’re not suited to the creation of complex data structures.
+
+## Optionals
+
+You use  _optionals_  in situations where a value may be absent. An optional represents two possibilities: Either there  _is_  a value, and you can unwrap the optional to access that value, or there  _isn’t_  a value at all.
     	
 
 	    
@@ -134,6 +136,6 @@ Tuples are useful for temporary groups of related values. They’re not suited t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjczMzE2OCwyMDc2OTYyNzM1LC0xOT
+eyJoaXN0b3J5IjpbMTk5MDM0NTczOSwyMDc2OTYyNzM1LC0xOT
 U4NTk0NDA5LDU4MTAzNTU3MV19
 -->
