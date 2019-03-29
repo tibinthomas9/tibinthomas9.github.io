@@ -162,6 +162,29 @@ The process of querying, calling properties, subscripts and methods on an option
 Optional chaining  fails gracefully when the optional is 'nil'.
     
 
+## Error Handling
+
+You use  _error handling_  to respond to error conditions your program may encounter during execution.
+
+In contrast to optionals, which can use the presence or absence of a value to communicate success or failure of a function, error handling allows you to determine the underlying cause of failure, and, if necessary, propagate the error to another part of your program.
+
+When a function encounters an error condition, it  _throws_  an error. That function’s caller can then  _catch_  the error and respond appropriately.
+
+  func canThrowAnError() throws {
+  // this function may or may not throw an error
+  }
+
+Swift automatically propagates errors out of their current scope until they’re handled by a  `catch`  clause.
+
+      do {
+      try canThrowAnError()
+      // no error was thrown
+     } catch {
+      // an error was thrown
+      }
+
+A  `do`  statement creates a new containing scope, which allows errors to be propagated to one or more  `catch`  clauses.
+
 	    
 
 
@@ -169,7 +192,7 @@ Optional chaining  fails gracefully when the optional is 'nil'.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTI2NjczNiwtNDE4NTI4NTMzLDU3MD
-Y4NjAwNywtMTY2NTcwMzE3LDE3MDc0NDI5MDksNTA5NDQyMTY1
-LDIwNzY5NjI3MzVdfQ==
+eyJoaXN0b3J5IjpbLTQ4NDUyMDcyLC00MTg1Mjg1MzMsNTcwNj
+g2MDA3LC0xNjY1NzAzMTcsMTcwNzQ0MjkwOSw1MDk0NDIxNjUs
+MjA3Njk2MjczNV19
 -->
