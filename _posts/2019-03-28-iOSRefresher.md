@@ -25,8 +25,8 @@ image: /img/hello_world.jpeg
     open source
     modern and better performance than objective c
     
-  - **objective** c    (header(.h) and implementation (.m) files )     
-	  Programming language for NeXTSTEP OS
+  - **objective** c    (header(.h) and implementation (.m) files ) 
+  Programming language for NeXTSTEP OS
  - **c and c++** (limited)
 
 
@@ -118,5 +118,6 @@ Swift  offers the programmer a rich assortment of built-in as well as user-defin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5NDQyMTY1LDIwNzY5NjI3MzVdfQ==
+eyJoaXN0b3J5IjpbMTcwNzQ0MjkwOSw1MDk0NDIxNjUsMjA3Nj
+k2MjczNV19
 -->
