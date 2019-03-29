@@ -122,8 +122,11 @@ Telling the type of a variable or constant
 ## Tuples
 
 _Tuples_  group multiple values into a single compound value. The values within a tuple can be of any type and don’t have to be of the same type as each other.
+
     1.  let http404Error = (404, "Not Found")
     2.  // http404Error is of type (Int, String), and equals (404, "Not Found")
+
+Tuples are useful for temporary groups of related values. They’re not suited to the creation of complex data structures.
     	
 
 	    
@@ -131,6 +134,6 @@ _Tuples_  group multiple values into a single compound value. The values within 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODAzNzM5NiwyMDc2OTYyNzM1LC0xOT
+eyJoaXN0b3J5IjpbMTc4NjczMzE2OCwyMDc2OTYyNzM1LC0xOT
 U4NTk0NDA5LDU4MTAzNTU3MV19
 -->
