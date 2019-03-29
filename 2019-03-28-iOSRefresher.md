@@ -36,14 +36,14 @@ image: /img/hello_world.jpeg
  
 #  Swift Language
 Swift includes modern features like type inference, optionals, and closures, which make the syntax concise yet expressive. Swift ensures your code is fast and efficient, while its memory safety and native error handling make the language safe by design. Writing Swift code is interactive and fun in Swift Playgrounds, playgrounds in Xcode, and REPL.
- - ## Constants and Variables
-    Variables are nothing but *reserved memory locations to store values*. This means that when you create a variable, you reserve some space in memory
+ ## Constants and Variables
+
+Variables are nothing but *reserved memory locations to store values*. This means that when you create a variable, you reserve some space in memory
  
 
  
-
-	> **let** : constant  
-	> **var**: variable
+> **let** : constant  
+> **var**: variable
 
  -    **Type Annotations**
 Telling the type of a variable or constant
@@ -136,7 +136,9 @@ You use  _optionals_  in situations where a value may be absent. An optional rep
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDkwODM2ODMsODI2NjIzMDY5LDE3MD
-c0NDI5MDldfQ==
+eyJoaXN0b3J5IjpbMTMwMzIzODM5NCw4MjY2MjMwNjksMTcwNz
+Q0MjkwOV19
 -->
