@@ -28,7 +28,7 @@ image: /img/hello_world.jpeg
     
   - **objective** c    (header(.h) and implementation (.m) files ) 
 
-  Programming language for NeXTSTEP OS
+    Programming language for NeXTSTEP OS
  - **c and c++** (limited)
 
 
@@ -120,5 +120,5 @@ Swift  offers the programmer a rich assortment of built-in as well as user-defin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDk2Nzc3MywxNzA3NDQyOTA5XX0=
+eyJoaXN0b3J5IjpbODI2NjIzMDY5LDE3MDc0NDI5MDldfQ==
 -->
