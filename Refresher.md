@@ -147,7 +147,16 @@ You use  _optional binding_  to find out whether an optional contains a value, a
 You write an implicitly unwrapped optional by placing an exclamation mark (`String!`) rather than a question mark (`String?`) after the type that you want to make optional.
 
 Implicitly unwrapped optionals are useful when an optional’s value is confirmed to exist immediately after the optional is first defined and can definitely be assumed to exist at every point thereafter. The primary use of implicitly unwrapped optionals in Swift is during class initialization.
-    	
+
+###  Optional Chaining
+
+
+The process of querying, calling properties, subscripts and methods on an optional that may be 'nil' is defined as optional chaining. Optional chaining return two values −
+
+-   if the optional contains a 'value' then calling its related property, methods and subscripts returns values
+    
+-   if the optional contains a 'nil' value all its its related property, methods and subscripts returns nil
+    
 
 	    
 
@@ -156,7 +165,7 @@ Implicitly unwrapped optionals are useful when an optional’s value is confirme
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODUyODUzMyw1NzA2ODYwMDcsLTE2Nj
-U3MDMxNywxNzA3NDQyOTA5LDUwOTQ0MjE2NSwyMDc2OTYyNzM1
-XX0=
+eyJoaXN0b3J5IjpbNDMzMTg2ODg5LC00MTg1Mjg1MzMsNTcwNj
+g2MDA3LC0xNjY1NzAzMTcsMTcwNzQ0MjkwOSw1MDk0NDIxNjUs
+MjA3Njk2MjczNV19
 -->
