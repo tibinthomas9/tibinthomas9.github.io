@@ -125,6 +125,8 @@ _Tuples_  group multiple values into a single compound value. The values within 
 
     1.  let http404Error = (404, "Not Found")
     2.  // http404Error is of type (Int, String), and equals (404, "Not Found")
+
+Tuples are useful for temporary groups of related values. They’re not suited to the creation of complex data structures.
     	
 
 	    
@@ -132,6 +134,6 @@ _Tuples_  group multiple values into a single compound value. The values within 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzAzOTIzMCwxNzA3NDQyOTA5LDUwOT
+eyJoaXN0b3J5IjpbMTc4NjczMzE2OCwxNzA3NDQyOTA5LDUwOT
 Q0MjE2NSwyMDc2OTYyNzM1XX0=
 -->
