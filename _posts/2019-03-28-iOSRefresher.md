@@ -28,7 +28,7 @@ image: /img/hello_world.jpeg
     
   - **objective** c    (header(.h) and implementation (.m) files ) 
 
-  Programming language for NeXTSTEP OS
+    Programming language for NeXTSTEP OS
  - **c and c++** (limited)
 
 
