@@ -77,12 +77,13 @@ Telling the type of a variable or constant
 	 Nor can they begin with a number, although numbers may be included elsewhere within the name
 
 
-  ## Data Types
+   ## Data Types
 
 
-Based on the data type of a variable, the operating system allocates memory and decides what can be stored in the reserved memory.
+	Based on the data type of a variable, the operating system allocates memory and decides what can be stored in the reserved memory.
 
-### Built-in Data Types	In Swift Data types are ***internally implemented as structs***.
+	### Built-in Data Types
+	In Swift Data types are ***internally implemented as structs***.
 
 	The swift standard library contains **Int,Double,String,Array,Dictionary** as structs,
 
@@ -140,6 +141,6 @@ You use  _optionals_  in situations where a value may be absent. An optional rep
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTExMTIyMTEsMjA3Njk2MjczNSwtMT
-k1ODU5NDQwOSw1ODEwMzU1NzFdfQ==
+eyJoaXN0b3J5IjpbLTE2NjU3MDMxNywyMDc2OTYyNzM1LC0xOT
+U4NTk0NDA5LDU4MTAzNTU3MV19
 -->
