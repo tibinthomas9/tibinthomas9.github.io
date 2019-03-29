@@ -148,8 +148,15 @@ You write an implicitly unwrapped optional by placing an exclamation mark (`Stri
 
 Implicitly unwrapped optionals are useful when an optional’s value is confirmed to exist immediately after the optional is first defined and can definitely be assumed to exist at every point thereafter. The primary use of implicitly unwrapped optionals in Swift is during class initialization.
 
+###  Optional Chaining
 
-    	
+
+The process of querying, calling properties, subscripts and methods on an optional that may be 'nil' is defined as optional chaining. Optional chaining return two values −
+
+-   if the optional contains a 'value' then calling its related property, methods and subscripts returns values
+    
+-   if the optional contains a 'nil' value all its its related property, methods and subscripts returns nil
+    
 
 	    
 
@@ -158,6 +165,6 @@ Implicitly unwrapped optionals are useful when an optional’s value is confirme
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY1MTY2NjUsNTcwNjg2MDA3LC0xNj
-Y1NzAzMTcsODI2NjIzMDY5LDE3MDc0NDI5MDldfQ==
+eyJoaXN0b3J5IjpbNDMzMTg2ODg5LDU3MDY4NjAwNywtMTY2NT
+cwMzE3LDgyNjYyMzA2OSwxNzA3NDQyOTA5XX0=
 -->
