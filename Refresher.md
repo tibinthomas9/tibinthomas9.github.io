@@ -21,11 +21,13 @@ image: /img/hello_world.jpeg
 ### Languages
 
  - **swift**
+
     Curent version: swift 5.0
     open source
     modern and better performance than objective c
     
   - **objective** c    (header(.h) and implementation (.m) files ) 
+
   Programming language for NeXTSTEP OS
  - **c and c++** (limited)
 
@@ -118,6 +120,6 @@ Swift  offers the programmer a rich assortment of built-in as well as user-defin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzQ0MjkwOSw1MDk0NDIxNjUsMjA3Nj
-k2MjczNV19
+eyJoaXN0b3J5IjpbMTA4NDk2Nzc3MywxNzA3NDQyOTA5LDUwOT
+Q0MjE2NSwyMDc2OTYyNzM1XX0=
 -->
