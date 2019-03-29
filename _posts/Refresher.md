@@ -75,34 +75,34 @@ Telling the type of a variable or constant
 	 Nor can they begin with a number, although numbers may be included elsewhere within the name
 
 
-   ## Data Types
+## Data Types
 
 
-	Based on the data type of a variable, the operating system allocates memory and decides what can be stored in the reserved memory.
+Based on the data type of a variable, the operating system allocates memory and decides what can be stored in the reserved memory.
 
-	### Built-in Data Types
+### Built-in Data Types
 	
-	In Swift Data types are ***internally implemented as structs***.
+In Swift Data types are ***internally implemented as structs***.
 
-	The swift standard library contains **Int,Double,String,Array,Dictionary** as structs,
+The swift standard library contains **Int,Double,String,Array,Dictionary** as structs,
 
-	Swift  offers the programmer a rich assortment of built-in as well as user-defined data types. The following types of basic data types are most frequently when declaring variables −
+Swift  offers the programmer a rich assortment of built-in as well as user-defined data types. The following types of basic data types are most frequently when declaring variables −
 
-	-   **Int or UInt**  − This is used for whole numbers. More specifically, you can use Int32, Int64 to define 32 or 64 bit signed integer, whereas UInt32 or UInt64 to define 32 or 64 bit unsigned integer variables. For example, 42 and -23.
+-   **Int or UInt**  − This is used for whole numbers. More specifically, you can use Int32, Int64 to define 32 or 64 bit signed integer, whereas UInt32 or UInt64 to define 32 or 64 bit unsigned integer variables. For example, 42 and -23.
 	    
-	-   **Float**  − This is used to represent a 32-bit floating-point number and numbers with smaller decimal points. For example, 3.14159, 0.1, and -273.158.
+-   **Float**  − This is used to represent a 32-bit floating-point number and numbers with smaller decimal points. For example, 3.14159, 0.1, and -273.158.
 	    
-	-   **Double**  − This is used to represent a 64-bit floating-point number and used when floating-point values must be very large. For example, 3.14159, 0.1, and -273.158.
+-   **Double**  − This is used to represent a 64-bit floating-point number and used when floating-point values must be very large. For example, 3.14159, 0.1, and -273.158.
 	    
-	-   **Bool**  − This represents a Boolean value which is either true or false.
+-   **Bool**  − This represents a Boolean value which is either true or false.
 	    
-	-   **String**  − This is an ordered collection of characters. For example, "Hello, World!"
+-   **String**  − This is an ordered collection of characters. For example, "Hello, World!"
 	    
-	-   **Character**  − This is a single-character string literal. For example, "C"
+-   **Character**  − This is a single-character string literal. For example, "C"
 	    
-	-   **Optional**  − This represents a variable that can hold either a value or no value.
+-   **Optional**  − This represents a variable that can hold either a value or no value.
 	    
-	-   **Tuples**  − This is used to group multiple values in single Compound Value.
+-   **Tuples**  − This is used to group multiple values in single Compound Value.
 	    
 
 	 Few important points related to Integer types −
@@ -199,7 +199,7 @@ The difference between assertions and preconditions is in when they’re checked
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE1Mzg2NzEsMTM2ODUxMTI5LDI1Mj
-MwMzczMiwtNDE4NTI4NTMzLDU3MDY4NjAwNywtMTY2NTcwMzE3
-LDIwNzY5NjI3MzUsLTE5NTg1OTQ0MDksNTgxMDM1NTcxXX0=
+eyJoaXN0b3J5IjpbMTIzMjc5MDM5NywxMzY4NTExMjksMjUyMz
+AzNzMyLC00MTg1Mjg1MzMsNTcwNjg2MDA3LC0xNjY1NzAzMTcs
+MjA3Njk2MjczNSwtMTk1ODU5NDQwOSw1ODEwMzU1NzFdfQ==
 -->
