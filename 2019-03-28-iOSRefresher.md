@@ -79,6 +79,7 @@ Telling the type of a variable or constant
  Constant and variable names can’t contain whitespace characters, mathematical symbols, arrows, private-use Unicode scalar values, or line- and box-drawing characters. 
 
 	 Nor can they begin with a number, although numbers may be included elsewhere within the name
+	
 ## Data Types
 
 
@@ -203,7 +204,7 @@ The difference between assertions and preconditions is in when they’re checked
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0NzY1NzEzLC0xODM5MzgzNDM1LDEyMz
+eyJoaXN0b3J5IjpbNTM1MTQ4NDU1LC0xODM5MzgzNDM1LDEyMz
 I3OTAzOTcsMTM2ODUxMTI5LDI1MjMwMzczMiw1NzA2ODYwMDcs
 LTE2NjU3MDMxNyw4MjY2MjMwNjksMTcwNzQ0MjkwOV19
 -->
