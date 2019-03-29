@@ -8,9 +8,7 @@ image: /img/hello_world.jpeg
 ***Must Refer***
 
 [swift apple documentation](https://developer.apple.com/documentation/swift)
-
 [swift lang documentation](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
-
 [swift tutorials point](https://www.tutorialspoint.com/swift/index.htm)
 ### iOS Basic Info
 
@@ -120,6 +118,6 @@ Swift  offers the programmer a rich assortment of built-in as well as user-defin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Mjc1Njc1OSwyMDc2OTYyNzM1LC0xOT
+eyJoaXN0b3J5IjpbMTgxNDk4OTc1NSwyMDc2OTYyNzM1LC0xOT
 U4NTk0NDA5LDU4MTAzNTU3MV19
 -->
