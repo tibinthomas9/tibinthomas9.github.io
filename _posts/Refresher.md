@@ -75,7 +75,7 @@ Telling the type of a variable or constant
 	 Nor can they begin with a number, although numbers may be included elsewhere within the name
 
 
-## Data Types
+## -Data Types
 Based on the data type of a variable, the operating system allocates memory and decides what can be stored in the reserved memory.
 
 ### Built-in Data Types
@@ -120,6 +120,6 @@ Swift  offers the programmer a rich assortment of built-in as well as user-defin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2NjIzMDY5LDIwNzY5NjI3MzUsLTE5NT
-g1OTQ0MDksNTgxMDM1NTcxXX0=
+eyJoaXN0b3J5IjpbMTE4NDIyMzI4MCwyMDc2OTYyNzM1LC0xOT
+U4NTk0NDA5LDU4MTAzNTU3MV19
 -->
