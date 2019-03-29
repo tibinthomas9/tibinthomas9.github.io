@@ -25,7 +25,6 @@ image: /img/hello_world.jpeg
  - Privacy oriented
 
 ### Development Languages
-
  - **swift**
     Curent version: swift 5.0
     open source
@@ -201,8 +200,8 @@ The difference between assertions and preconditions is in when they’re checked
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDQ5NSwxMjMyNzkwMzk3LDEzNjg1MT
-EyOSwyNTIzMDM3MzIsLTQxODUyODUzMyw1NzA2ODYwMDcsLTE2
-NjU3MDMxNywyMDc2OTYyNzM1LC0xOTU4NTk0NDA5LDU4MTAzNT
-U3MV19
+eyJoaXN0b3J5IjpbLTcyNzE2Mzc0MSwxMjMyNzkwMzk3LDEzNj
+g1MTEyOSwyNTIzMDM3MzIsLTQxODUyODUzMyw1NzA2ODYwMDcs
+LTE2NjU3MDMxNywyMDc2OTYyNzM1LC0xOTU4NTk0NDA5LDU4MT
+AzNTU3MV19
 -->
