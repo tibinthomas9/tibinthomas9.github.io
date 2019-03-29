@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+titleiOSRefrsher!
 image: /img/hello_world.jpeg
 ---
 # iOS and Swift Refresher
@@ -117,5 +117,5 @@ Swift  offers the programmer a rich assortment of built-in as well as user-defin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg1OTQ0MDldfQ==
+eyJoaXN0b3J5IjpbNzMwOTI5NDgxLC0xOTU4NTk0NDA5XX0=
 -->
