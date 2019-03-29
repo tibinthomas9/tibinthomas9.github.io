@@ -134,7 +134,14 @@ Tuples are useful for temporary groups of related values. They’re not suited t
 You use  _optionals_  in situations where a value may be absent. An optional represents two possibilities: Either there  _is_  a value, and you can unwrap the optional to access that value, or there  _isn’t_  a value at all.
 
 ### Optional Binding
+
 You use  _optional binding_  to find out whether an optional contains a value, and if so, to make that value available as a temporary constant or variable. Optional binding can be used with  `if`  and  `while`  statements to check for a value inside an optional, and to extract that value into a constant or variable, as part of a single action
+
+  
+
+    if let constantName = someOptional {
+      statements
+      }
     	
 
 	    
@@ -144,6 +151,6 @@ You use  _optional binding_  to find out whether an optional contains a value, a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4MDE4MjM3LC0xNjY1NzAzMTcsODI2Nj
+eyJoaXN0b3J5IjpbNTcwNjg2MDA3LC0xNjY1NzAzMTcsODI2Nj
 IzMDY5LDE3MDc0NDI5MDldfQ==
 -->
