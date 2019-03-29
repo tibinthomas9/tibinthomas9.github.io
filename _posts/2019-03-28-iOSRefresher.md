@@ -8,7 +8,9 @@ image: /img/hello_world.jpeg
 ***Must Refer***
 
 [swift apple documentation](https://developer.apple.com/documentation/swift)
+
 [swift lang documentation](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+
 [swift tutorials point](https://www.tutorialspoint.com/swift/index.htm)
 ### iOS Basic Info
 
@@ -38,10 +40,10 @@ Swift includes modern features like type inference, optionals, and closures, whi
     Variables are nothing but *reserved memory locations to store values*. This means that when you create a variable, you reserve some space in memory
  
 
-> **let** : constant
-> **var**: variable
+ 
 
-	
+	> **let** : constant  
+	> **var**: variable
 
  -    **Type Annotations**
 Telling the type of a variable or constant
@@ -116,6 +118,7 @@ Swift  offers the programmer a rich assortment of built-in as well as user-defin
 	    
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Njk2MjczNV19
+eyJoaXN0b3J5IjpbMTg4Mjc1Njc1OSwyMDc2OTYyNzM1XX0=
 -->
