@@ -185,6 +185,8 @@ Swift automatically propagates errors out of their current scope until they’re
 
 A  `do`  statement creates a new containing scope, which allows errors to be propagated to one or more  `catch`  clauses.
 
+
+
 	    
 
 
@@ -194,6 +196,7 @@ A  `do`  statement creates a new containing scope, which allows errors to be pro
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyMzAzNzMyLDU3MDY4NjAwNywtMTY2NT
-cwMzE3LDgyNjYyMzA2OSwxNzA3NDQyOTA5XX0=
+eyJoaXN0b3J5IjpbNjY2OTI5NDQsMjUyMzAzNzMyLDU3MDY4Nj
+AwNywtMTY2NTcwMzE3LDgyNjYyMzA2OSwxNzA3NDQyOTA5XX0=
+
 -->
