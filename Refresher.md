@@ -153,7 +153,7 @@ Implicitly unwrapped optionals are useful when an optional’s value is confirme
 
 The process of querying, calling properties, subscripts and methods on an optional that may be 'nil' is defined as optional chaining. Optional chaining return two values −
 
- Optional Chaining isas an Alternative to Forced Unwrapping
+>  Optional Chaining is used as an alternative to Forced Unwrapping
 
 -   if the optional contains a 'value' then calling its related property, methods and subscripts returns values
     
@@ -169,7 +169,7 @@ Optional chaining  fails gracefully when the optional is 'nil'.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0NzI3MDIzLC00MTg1Mjg1MzMsNTcwNj
-g2MDA3LC0xNjY1NzAzMTcsMTcwNzQ0MjkwOSw1MDk0NDIxNjUs
-MjA3Njk2MjczNV19
+eyJoaXN0b3J5IjpbLTg1MTI2NjczNiwtNDE4NTI4NTMzLDU3MD
+Y4NjAwNywtMTY2NTcwMzE3LDE3MDc0NDI5MDksNTA5NDQyMTY1
+LDIwNzY5NjI3MzVdfQ==
 -->
