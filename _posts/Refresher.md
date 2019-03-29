@@ -80,6 +80,7 @@ Telling the type of a variable or constant
 
 	 Nor can they begin with a number, although numbers may be included elsewhere within the name
 	
+
 ## Data Types
 
 
@@ -204,8 +205,8 @@ The difference between assertions and preconditions is in when they’re checked
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1MTQ4NDU1LC0xODM5MzgzNDM1LDEyMz
-I3OTAzOTcsMTM2ODUxMTI5LDI1MjMwMzczMiwtNDE4NTI4NTMz
-LDU3MDY4NjAwNywtMTY2NTcwMzE3LDIwNzY5NjI3MzUsLTE5NT
-g1OTQ0MDksNTgxMDM1NTcxXX0=
+eyJoaXN0b3J5IjpbNjY3NDkwOTAxLDUzNTE0ODQ1NSwtMTgzOT
+M4MzQzNSwxMjMyNzkwMzk3LDEzNjg1MTEyOSwyNTIzMDM3MzIs
+LTQxODUyODUzMyw1NzA2ODYwMDcsLTE2NjU3MDMxNywyMDc2OT
+YyNzM1LC0xOTU4NTk0NDA5LDU4MTAzNTU3MV19
 -->
