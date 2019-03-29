@@ -75,12 +75,13 @@ Telling the type of a variable or constant
 	 Nor can they begin with a number, although numbers may be included elsewhere within the name
 
 
-## Data Types
+   ## Data Types
 
 
 	Based on the data type of a variable, the operating system allocates memory and decides what can be stored in the reserved memory.
 
 	### Built-in Data Types
+	
 	In Swift Data types are ***internally implemented as structs***.
 
 	The swift standard library contains **Int,Double,String,Array,Dictionary** as structs,
@@ -198,7 +199,7 @@ The difference between assertions and preconditions is in when they’re checked
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTYxOTIxNSwxMzY4NTExMjksMjUyMz
-AzNzMyLC00MTg1Mjg1MzMsNTcwNjg2MDA3LC0xNjY1NzAzMTcs
-MjA3Njk2MjczNSwtMTk1ODU5NDQwOSw1ODEwMzU1NzFdfQ==
+eyJoaXN0b3J5IjpbLTE2MzE1Mzg2NzEsMTM2ODUxMTI5LDI1Mj
+MwMzczMiwtNDE4NTI4NTMzLDU3MDY4NjAwNywtMTY2NTcwMzE3
+LDIwNzY5NjI3MzUsLTE5NTg1OTQ0MDksNTgxMDM1NTcxXX0=
 -->
