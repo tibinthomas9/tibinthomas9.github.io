@@ -142,6 +142,11 @@ You use  _optional binding_  to find out whether an optional contains a value, a
     if let constantName = someOptional {
       statements
       }
+### Implicitly Unwrapped Optionals
+
+You write an implicitly unwrapped optional by placing an exclamation mark (`String!`) rather than a question mark (`String?`) after the type that you want to make optional.
+
+Implicitly unwrapped optionals are useful when an optional’s value is confirmed to exist immediately after the optional is first defined and can definitely be assumed to exist at every point thereafter. The primary use of implicitly unwrapped optionals in Swift is during class initialization.
     	
 
 	    
@@ -151,6 +156,7 @@ You use  _optional binding_  to find out whether an optional contains a value, a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwNjg2MDA3LC0xNjY1NzAzMTcsMTcwNz
-Q0MjkwOSw1MDk0NDIxNjUsMjA3Njk2MjczNV19
+eyJoaXN0b3J5IjpbLTQxODUyODUzMyw1NzA2ODYwMDcsLTE2Nj
+U3MDMxNywxNzA3NDQyOTA5LDUwOTQ0MjE2NSwyMDc2OTYyNzM1
+XX0=
 -->
