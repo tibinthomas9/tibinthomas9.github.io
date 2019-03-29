@@ -170,9 +170,9 @@ In contrast to optionals, which can use the presence or absence of a value to co
 
 When a function encounters an error condition, it  _throws_  an error. That function’s caller can then  _catch_  the error and respond appropriately.
 
-  func canThrowAnError() throws {
-  // this function may or may not throw an error
-  }
+      func canThrowAnError() throws {
+      // this function may or may not throw an error
+      }
 
 Swift automatically propagates errors out of their current scope until they’re handled by a  `catch`  clause.
 
@@ -191,8 +191,10 @@ A  `do`  statement creates a new containing scope, which allows errors to be pro
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDUyMDcyLC00MTg1Mjg1MzMsNTcwNj
+eyJoaXN0b3J5IjpbMjUyMzAzNzMyLC00MTg1Mjg1MzMsNTcwNj
 g2MDA3LC0xNjY1NzAzMTcsMTcwNzQ0MjkwOSw1MDk0NDIxNjUs
 MjA3Njk2MjczNV19
 -->
