@@ -15,15 +15,16 @@ image: /img/hello_world.jpeg
 > [swift tutorials
 > point](https://www.tutorialspoint.com/swift/index.htm)
 
-### iOS Basic Info
 
+
+### iOS Basic Info
  - iPhone OS(first name)
  - Unix based
  - first os with muti touch GUI,in their words a phone that runs macOS
  - Latest Version - 12.2
  - Privacy oriented
 
-### Languages
+### Development Languages
 
  - **swift**
 
@@ -202,7 +203,7 @@ The difference between assertions and preconditions is in when they’re checked
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQzMDY5MTgsMTIzMjc5MDM5NywxMz
-Y4NTExMjksMjUyMzAzNzMyLDU3MDY4NjAwNywtMTY2NTcwMzE3
-LDgyNjYyMzA2OSwxNzA3NDQyOTA5XX0=
+eyJoaXN0b3J5IjpbLTkyNzgwODExMSwxMjMyNzkwMzk3LDEzNj
+g1MTEyOSwyNTIzMDM3MzIsNTcwNjg2MDA3LC0xNjY1NzAzMTcs
+ODI2NjIzMDY5LDE3MDc0NDI5MDldfQ==
 -->
