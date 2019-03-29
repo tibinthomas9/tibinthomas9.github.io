@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: iOSRefrsher!
 image: /img/hello_world.jpeg
 ---
 # iOS and Swift Refresher
