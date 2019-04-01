@@ -1,8 +1,9 @@
 ---
-
-
+layout: post
+title: iOS Rich Notifications and how to play a youtube video within a notification
+subtitle: ios
+comments: true
 ---
-
 <hr>
 <h2 id="layout-posttitle-ios-rich-notifications-and-how-to-play-a-youtube-video-within-a-notificationimage-imghello_world.jpeg">layout: post<br>
 title: iOS Rich Notifications and how to play a youtube video within a notification!<br>
