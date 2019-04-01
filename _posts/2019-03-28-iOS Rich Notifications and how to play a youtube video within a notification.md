@@ -5,16 +5,9 @@ subtitle: ios
 comments: true
 ---
 <hr>
-<h2 id="layout-posttitle-ios-rich-notifications-and-how-to-play-a-youtube-video-within-a-notificationimage-imghello_world.jpeg">layout: post<br>
-title: iOS Rich Notifications and how to play a youtube video within a notification!<br>
-image: /img/hello_world.jpeg</h2>
-<h1 id="section"></h1>
-<p><a href="https://medium.com/@tibinmutholy?source=post_header_lockup"><img src="https://cdn-images-1.medium.com/fit/c/50/50/1*iCzkSKlEB0uod0UoJnkBbQ.jpeg" alt="Go to the profile of Tibin Thomas"></a></p>
-<p><a href="https://medium.com/@tibinmutholy">Tibin Thomas</a></p>
-<p>Mar 15</p>
 <p><img src="https://cdn-images-1.medium.com/max/2560/1*tbPq5hncRE-kYaXxgFs60g.png" alt=""></p>
 <p>from  <a href="https://www.apple.com/">apple</a></p>
-<p>Initerative iOS releases apple incorporated new features into the iOS notification system.The aim of the new features was to provide a more  <strong>immersive and interactive experience for the user within the notification</strong>.Thus users would be able to get more information and also perform critical action right within the notification without the need of opening the app.</p>
+<p>In iterative iOS releases apple incorporated new features into the iOS notification system.The aim of the new features was to provide a more  <strong>immersive and interactive experience for the user within the notification</strong>.Thus users would be able to get more information and also perform critical action right within the notification without the need of opening the app.</p>
 <p>The most prominent features among them are:</p>
 <ol>
 <li><strong>Notification Actions</strong>: provides the actions that the user can perform to interact with the notification message. They are presented as buttons. Available via  <a href="http://www.thinkandbuild.it/interactive-notifications-with-notification-actions/"><strong>UIUserNotificationAction</strong></a><strong>.</strong></li>
