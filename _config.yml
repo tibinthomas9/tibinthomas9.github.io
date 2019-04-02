@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: Tibin Thomas
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Personal Blog!
 
 # --- Navigation bar options --- #
 
@@ -74,8 +74,8 @@ social-network-links:
   rss: true
   email: "someone@example.com"
   facebook: daattali
-  github: daattali
-  twitter: daattali
+  github: tibinthomas9
+  twitter: tibinT9
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
