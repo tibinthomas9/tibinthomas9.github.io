@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOSExtensions!
+title: iOS Extensions!
 subtitle: what are they used for?
 image: /img/extensions.png
 ---
