@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS- Learning Path!
-subtitle: Tree
+subtitle: Basics to Launch to Appstore
 image: /img/iosflow.png
 ---
 ![image](../img/iosflow.png)
