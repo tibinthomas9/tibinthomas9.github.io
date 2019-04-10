@@ -1,9 +1,8 @@
-
 ---
 layout: post
-title: iOS Roadmap!
+title: iOS-RoadMap!
 subtitle: Learning
-image: /img/iosRoadMap.png
+image: /img/extensions.png
 ---
 ![image](../img/iosRoadMap.png)
 
