@@ -1,6 +1,7 @@
 ---
 layout: post
 title: iOS and Swift Refresher!
+subtitle: Basics
 image: /img/hello_world.jpeg
 ---
 
@@ -205,9 +206,9 @@ The difference between assertions and preconditions is in when they’re checked
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3NDkwOTAxLDUzNTE0ODQ1NSwtMTgzOT
-M4MzQzNSwtNzI3MTYzNzQxLDEyMzI3OTAzOTcsMTM2ODUxMTI5
-LDI1MjMwMzczMiwtNDE4NTI4NTMzLDU3MDY4NjAwNywtMTY2NT
-cwMzE3LDE3MDc0NDI5MDksNTA5NDQyMTY1LDIwNzY5NjI3MzVd
-fQ==
+eyJoaXN0b3J5IjpbNzE4NjUyNjcyLDY2NzQ5MDkwMSw1MzUxND
+g0NTUsLTE4MzkzODM0MzUsLTcyNzE2Mzc0MSwxMjMyNzkwMzk3
+LDEzNjg1MTEyOSwyNTIzMDM3MzIsLTQxODUyODUzMyw1NzA2OD
+YwMDcsLTE2NjU3MDMxNywxNzA3NDQyOTA5LDUwOTQ0MjE2NSwy
+MDc2OTYyNzM1XX0=
 -->
