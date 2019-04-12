@@ -15,6 +15,8 @@ In **procedural/imperative program** we say **how to do** whereas in **functiona
 
 ## Programming Paradigms
 
+
+
 -   **Object-oriented programming (OOP**) is a programming paradigm based on the concept of “objects”, which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods​
     
 ​
@@ -55,6 +57,8 @@ Functional programming tends to reuse a common set of functional utilities to pr
 5. Because our functions don't cause side effects and variables are all immutable, we can reduce how much state we track in our program – and often eliminate it altogether​ .
 
 ## Aspects of functional programming
+
+
 
 ###  **Immutable Data(Values)​**
 
@@ -112,29 +116,21 @@ In Swift instance methods are implemented as Curried”Functions /An instance me
       ​
     
 -   **flatMap()** The flatMap() function is effectively the combination of using map() and flatten() in a single call, in that order; useful in handling optionals. ​
-     ​
+ 
     
 -   **filter()** The filter() method loops over every item in a collection, and passes it into a function that you write. If your function returns true for that item it will be included in a new array, which is the return value for filter(). ​
 
-​
 
 -   **reduce()** The reduce() function condenses an array into a single value by applying a function to every item. Each time the function is called, you get passed the previous value from your function as well as the next item in your array. ​
-    
-
-    
+ 
+ 
 -   **sort()** Can do basic sorts on arrays without even passing arguments to it, but can also pass in blocks that handle more complex sorting.​
 
 ## Advantages
 
-   -   Maintainable  code.​
-    
-
-    
--   Easier and complete  testing.​
-    
-
-    
--   Easier parallel and concurrent  programming.​
+- Maintainable  code.​   
+- Easier and complete  testing.​  
+- Easier parallel and concurrent  programming.​
 - Preserves State
 - Avoid Deadlocks
 - Cleaner and Readable Code
