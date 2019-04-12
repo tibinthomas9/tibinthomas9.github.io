@@ -19,7 +19,6 @@ In **procedural/imperative program** we say **how to do** whereas in **functiona
 
 -   **Object-oriented programming (OOP**) is a programming paradigm based on the concept of “objects”, which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods​
     
-​
     
 -   **Procedural programming** is a programming paradigm, derived from structured programming, based upon the concept of the procedure call. Procedures, also known as routines, subroutines, or functions (not to be confused with mathematical functions, but similar to those used in functional programming), simply contain a series of computational steps to be carried out.”​
     
@@ -87,7 +86,7 @@ Side effects are mostly avoided in functional programming, which makes the effec
 	
 -  Evaluation of result does not cause any side  effect​  ​
       eg. No change in database or to I/O  devices​
-     ​
+ 
 -   Result value need not depend on all arguments but it must depend on nothing other than the arguments​
     
     
