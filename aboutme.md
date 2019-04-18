@@ -4,13 +4,10 @@ title:  Tibin Thomas
 subtitle: iOS Developer | Open Source Enthusiast
 ---
 
-My name is Tibin Thomas. I have the following qualities:
+My name is Tibin Thomas. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<object data="https://tibinthomas9.github.io/YourResumee.pdf" type="application/pdf" width="900px" height="700px">
+    <embed src="https://tibinthomas9.github.io/YourResumee.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://tibinthomas9.github.io/YourResumee.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
