@@ -4,7 +4,6 @@ title:  Tibin Thomas
 subtitle: iOS Developer | Open Source Enthusiast
 ---
 
-My name is Tibin Thomas. 
 
 <object data="https://tibinthomas9.github.io/YourResumee.pdf" type="application/pdf" width="900px" height="700px">
     <embed src="https://tibinthomas9.github.io/YourResumee.pdf">
