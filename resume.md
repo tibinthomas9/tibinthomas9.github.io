@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Tibin Thomas
-subtitle: iOS Developer | Open Source Enthusiast
+title:  
+subtitle: 
 ---
 
 <object data="https://tibinthomas9.github.io/YourResumee.pdf" type="application/pdf" width="700px" height="700px">
