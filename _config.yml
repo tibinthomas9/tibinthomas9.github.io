@@ -24,9 +24,9 @@ description: Personal Blog!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Resume: "resume"
   Resources:
   
-    - Resume: "resume"
     - GitHub Pages: "https://pages.github.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
