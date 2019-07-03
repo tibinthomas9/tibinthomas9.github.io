@@ -21,9 +21,4 @@ The possibilities and advantages of SwiftUI is really astounding as I have seen 
  - Custom compenents are easier to create and reuse and share among developers.
  - Also the underlying platform of SwiftUI :DSL(Domain specific languages) opens up a lot of possibilities ,I have seen libraries which could use swift to generate html code etc
  - Another interesting idea,I had seen was *network based UI code*,which is a very huge possibility and maybe controversial at it maybe can bypass apple review.
-
-
-
-	
-
-
+ - Previews in Xcode,which brings together stroryboard like approach and code based approach,brings an interactive and real time visual two base binding between code and UI preview. 
