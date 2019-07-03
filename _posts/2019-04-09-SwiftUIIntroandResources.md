@@ -66,7 +66,7 @@ This guy provides a good youtube channel which I follow and also a very good sit
 
 Another great contributor who I follow.He also came up with tutorials really fast.
 
-7 ) **Other Collections:Awesome SwiftUI of GitHub** 
+7 ) **Other Collections:Awesome SwiftUI on GitHub** 
 [https://github.com/ygit/swiftui](https://github.com/ygit/swiftui)
 
 
