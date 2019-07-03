@@ -44,7 +44,7 @@ WWDC videos are must watch videos for gaining insightful knowledge about an appl
  3 ) **Raywenderlich**
  They have always provide good quality and updated contents.
  
-[](https://www.raywenderlich.com/3715234-swiftui-getting-started)
+[https://www.raywenderlich.com/3715234-swiftui-getting-started](https://www.raywenderlich.com/3715234-swiftui-getting-started)
  SwiftUI: Getting Started | raywenderlich.com
  
 
