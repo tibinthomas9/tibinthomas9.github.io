@@ -44,11 +44,13 @@ WWDC videos are must watch videos for gaining insightful knowledge about an appl
  3 ) **Raywenderlich**
  They have always provide good quality and updated contents.
  
-
- https://www.raywenderlich.com/3715234-swiftui-getting-started
+[](https://www.raywenderlich.com/3715234-swiftui-getting-started)
+ SwiftUI: Getting Started | raywenderlich.com
  
 
-4 ) **Hacking With Swift by Paul Hudson**
+  
+  
+ 4 ) **Hacking With Swift by Paul Hudson**
 
  [https://www.hackingwithswift.com/articles/196/learn-swiftui-with-free-tutorials](https://www.hackingwithswift.com/articles/196/learn-swiftui-with-free-tutorials)
 
@@ -56,13 +58,13 @@ He came up with a complete tutorial and practical code on SwiftUI on the second 
 
 5 ) **SwiftUI Tutorials by Lets Build That App**
 
- https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA/
+ [https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA/](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA/)
 
 This guy provides a good youtube channel which I follow and also a very good site which instructs how to develop common and popular apps.
 
 6 ) **SwiftUI by John Sundell**
 
- https://www.swiftbysundell.com/
+ [https://www.swiftbysundell.com/](https://www.swiftbysundell.com/)
 
 Another great contributor who I follow.He also came up with tutorials really fast.
 
@@ -79,6 +81,3 @@ Another great contributor who I follow.He also came up with tutorials really fas
  
   
  
-
-
-
