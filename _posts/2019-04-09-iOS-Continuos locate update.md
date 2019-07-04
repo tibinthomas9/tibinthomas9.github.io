@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS -Continuos Location update in background
-subtitle: Basics
+subtitle: References and Libraries
 show-avatar: false
 ---
 
