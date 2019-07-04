@@ -13,3 +13,11 @@ show-avatar: false
 ## Periodic iOS background location updates:StackOverflow
  [Periodic iOS background location updates](https://stackoverflow.com/questions/19042894/periodic-ios-background-location-updates)
 
+## Libraries for Location Handling
+
+[https://github.com/malcommac/SwiftLocation](https://github.com/malcommac/SwiftLocation)
+
+[https://github.com/benzamin/BBLocationManager](https://github.com/benzamin/BBLocationManager)
+
+[https://github.com/intuit/LocationManager](https://github.com/intuit/LocationManager)
+
