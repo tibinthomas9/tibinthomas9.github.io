@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SwiftUI
-subtitle: Intro and Resouces
+subtitle: Intro and Resources
 show-avatar: false
 ---
 
