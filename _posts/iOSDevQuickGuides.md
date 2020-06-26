@@ -5,17 +5,19 @@ subtitle: guides and tutorials on how to implement ios functionalities
 image: /img/hello_world.jpeg
 ---
 
-***About ***
-guides and tutorials on how to implement ios functionalities
+
+
+## Guides and tutorials on how to implement iOS functionalities
+
+| Feature | About |   About  | 
+|--|--|--|
+|
+|Support Dynamic type  | Using A Custom Font With Dynamic Type   |  [use your loaf](https://useyourloaf.com/blog/using-a-custom-font-with-dynamic-type/#:~:text=To%20make%20it%20easier%20to,to%20scale%20your%20custom%20font.&text=You%20create%20your%20font%20with,the%20font%20metrics%20for%20the%20) 
 
 
 
 ### Support Dynamic type
- - Using A Custom Font With Dynamic Type : > [use your
-> loaf](https://useyourloaf.com/blog/using-a-custom-font-with-dynamic-type/#:~:text=To%20make%20it%20easier%20to,to%20scale%20your%20custom%20font.&text=You%20create%20your%20font%20with,the%20font%20metrics%20for%20the%20) 
-
-
-
+ - Using A Custom Font With Dynamic Type :  [ [use your loaf](https://useyourloaf.com/blog/using-a-custom-font-with-dynamic-type/#:~:text=To%20make%20it%20easier%20to,to%20scale%20your%20custom%20font.&text=You%20create%20your%20font%20with,the%20font%20metrics%20for%20the%20) ]
 
 
 
