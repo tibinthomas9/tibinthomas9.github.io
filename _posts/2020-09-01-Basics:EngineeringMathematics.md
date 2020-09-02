@@ -28,6 +28,11 @@
 <li><a href="https://byjus.com/maths/basics-set-theory/">Set Theory</a>: Union, intersection of a group of elements</li>
 <li><a href="https://byjus.com/maths/trigonometry/">Trigonometry</a>: concerned about angles</li>
 </ul>
+<h2 id="links">Links</h2>
+<p><a href="https://www.geeksforgeeks.org/engineering-mathematics-tutorials/#logic">geeksforgeeks</a><br>
+<a href="https://www.efunda.com/math/math_home/math.cfm">efunda</a><br>
+<a href="https://nptel.ac.in/courses/111/105/111105035/">Nptel</a><br>
+<a href="https://www.sciencedirect.com/book/9780128097304/engineering-mathematics-with-examples-and-applications">ScienceDirect</a></p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
