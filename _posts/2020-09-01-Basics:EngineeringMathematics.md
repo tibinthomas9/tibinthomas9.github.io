@@ -6,7 +6,7 @@
 <blockquote>
 <p>Day 1 : 01-09-2020</p>
 </blockquote>
-<h1 id="basics">Basics:</h1>
+<h1 id="basics-engineering-maths">Basics: Engineering Maths</h1>
 <p>Today i started on relearning the basics and and thorough thought decided to start with relearing what i learnt for B.Tech, my under graduate college progragramme. So I downloaded the syllabus and started with semester 1.</p>
 <p>So i went through the syllabus and found out materials for engineering mathematics and also for GATE and GRE. I felt going through the GATE and GRE would be much effective than going through the whole course.</p>
 <p>So upon googling of maths topics, I focussed on understanding the basics and structure of mathematics and understood <strong>computer science mostly focus on discrete matematics</strong> i.e concerning non continuous values.</p>
