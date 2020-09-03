@@ -31,9 +31,9 @@ Finally stumbled upon Youtube Learning playlist which is a product on which you 
 <a href="https://byjus.com/maths/linear-algebra/">Byjus linear algebra</a><br>
 <a href="https://www.vedantu.com/maths/linear-algebra">Vedantu</a><br>
 <a href="https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra">khanacademy algebra</a><br>
-[Youtube learning playlist: # <a href="https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6">Study Hall: Algebra</a><br>
+<a href="https://www.youtube.com/playlist?list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6">Youtube learning playlist: Study Hall: Algebra</a><br>
 <a href="https://www.youtube.com/watch?v=v77m0Jxgv9U&amp;list=PLV8KWr1q59qEyHa8U1X5I7qPOfQAmOs-m&amp;index=1&amp;ab_channel=ChristopherThomas">math in a nutshell</a><br>
-<a href="https://www.youtube.com/watch?v=OmJ-4B-mS-Y&amp;list=PLV8KWr1q59qEyHa8U1X5I7qPOfQAmOs-m&amp;index=2&amp;ab_channel=DomainofScience"># The Map of Mathematics</a></p>
+<a href="https://www.youtube.com/watch?v=OmJ-4B-mS-Y&amp;list=PLV8KWr1q59qEyHa8U1X5I7qPOfQAmOs-m&amp;index=2&amp;ab_channel=DomainofScience"> The Map of Mathematics</a></p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
