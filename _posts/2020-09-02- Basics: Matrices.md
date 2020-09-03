@@ -4,9 +4,16 @@
 ---
 
 <blockquote>
-<p>Day 1 : 01-09-2020</p>
+<p>Day 2 : 02-09-2020</p>
 </blockquote>
 <h1 id="basics-engineering-maths-matrices">Basics: Engineering Maths: Matrices</h1>
+<h2 id="journal">Journal</h2>
+<p>Today , I became lazy and didnt learnt much, but I splitted my day into a schedule for learning using google calendar events. Later I drifted away  off topic and wathed 300 part 2 movie.</p>
+<h2 id="topics-learned">Topics learned</h2>
+<ul>
+<li>Google calendar(types) and associated add on tools (ulimately used none)</li>
+</ul>
+<h1 id="details">Details</h1>
 <h2 id="branches-of-mathematics">Branches of mathematics</h2>
 <h2 id="links">Links</h2>
 <p><a href="https://www.geeksforgeeks.org/engineering-mathematics-tutorials/#logic">geeksforgeeks</a><br>
