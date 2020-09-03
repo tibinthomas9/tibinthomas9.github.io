@@ -6,7 +6,7 @@
 <blockquote>
 <p>Day 2 : 02-09-2020</p>
 </blockquote>
-<h1 id="basics-engineering-maths-matrices">Basics: Engineering Maths: Matrices</h1>
+<h1 id="basics--lazy-day">Basics:  Lazy Day</h1>
 <h2 id="journal">Journal</h2>
 <p>Today , I became lazy and didnt learnt much, but I splitted my day into a schedule for learning using google calendar events. Later I drifted away  off topic and wathed 300 part 2 movie.</p>
 <h2 id="topics-learned">Topics learned</h2>
