@@ -39,8 +39,9 @@
   <meta name="keywords" content="{{ site.keywords }}">
   {% endif %}
 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
 
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+<link rel="shortcut icon" type="image/png" href="../img/twitterProfile.jpg"/>
   {% include gtag.html %}
   {% include gtm_head.html %}
   {% include google_analytics.html %}

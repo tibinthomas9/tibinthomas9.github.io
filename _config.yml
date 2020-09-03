@@ -1,25 +1,45 @@
-# --- Required options --- #
+
+# --- General options --- #
+
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (https://username.github.io) then use these settings:
+url: "https://tibinthomas9.github.io"
+baseurl: ""
+remote_theme: daattali/beautiful-jekyll@4.1.0
+
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
+
+# Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My Website
+title: Tibin Thomas
 
-# Your name to show in the footer
-author: Some Person
+# Short description of your site
+description: Personal Blog!
+
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
+  Resume: "resume"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/img/twitterProfile.jpg"
+
+# If you want to have an image logo in the top-left corner instead of the title text,
+# then specify the following parameter
+# title-img: /path/to/image
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -29,24 +49,30 @@ round-avatar: true
 #title-img: /path/to/image
 
 
-# --- Footer social media links --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Tibin Thomas
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+
+  rss: true
+  email: "tibinmutholy@gmail.com"
+  facebook: tibin9
+  github: tibinthomas9
+  twitter: tibinT9
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "8181347/tibin-thomas"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +918547643993
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -66,15 +92,14 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
+  google: true
   linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
 
-# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+url-pretty: "tibinthomas.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -119,8 +144,9 @@ footer-link-col: "#404040"
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
 #gtag: ""
 
-# Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+
+# Fill in your Google Analytics ID to track your website using GA
+google_analytics: "UA-177015959-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -134,6 +160,7 @@ footer-link-col: "#404040"
 #  opt-out: true
 
 # --- Comments --- #
+
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
 #disqus: ""
@@ -164,6 +191,24 @@ footer-link-col: "#404040"
 #  reCaptcha:
 #    siteKey  : # Use your own site key, you need to apply for one on Google
 #    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+disqus: "tibinthomast9-1"
+# If you want to use just-comments fill with the API Key
+#just-comments: "ABCD-EFGH-IJKL"
+
+# To use Facebook Comments, fill in a Facebook App ID
+# fb_comment_id: ""
+
+# Staticman support
+staticman:
+  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
+  reCaptcha:
+    # reCaptcha for Staticman (OPTIONAL)
+    # If you use reCaptcha, you must also set these parameters in staticman.yml
+    siteKey  : # Use your own site key, you need to apply for one on Google
+    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
 

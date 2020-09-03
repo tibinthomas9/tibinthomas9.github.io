@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title:  Tibin Thomas
+subtitle: iOS Developer | Open Source Enthusiast
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+
 
 - I rock a great mustache
 - I'm extremely loyal to my family
 
 What else do you need?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<object data="https://tibinthomas9.github.io/YourResumee.pdf" type="application/pdf" width="900px" height="700px">
+    <embed src="https://tibinthomas9.github.io/YourResumee.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://tibinthomas9.github.io/YourResumee.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
