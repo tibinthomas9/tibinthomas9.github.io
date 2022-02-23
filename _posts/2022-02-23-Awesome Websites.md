@@ -151,6 +151,8 @@ https://www.windy.com/
 *  https://www.rainymood.com/
 *  https://www.reddit.com/r/InternetIsBeautiful/
 *  http://radio.garden/
+*  https://savecrate.com/all
+*  https://exp-infinite-passerella.lusion.co/
 
 
 
