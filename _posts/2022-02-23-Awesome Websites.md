@@ -135,7 +135,9 @@
  
 ## General
 
-* [statista](www.statista.com)
+* [statista](https://www.statista.com)
+* [ifitweremyhome](http://www.ifitweremyhome.com)
+
 
  
 
