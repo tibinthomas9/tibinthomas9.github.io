@@ -10,6 +10,6 @@
 <p>Jaye, Cassie.,  <em>Meeting the enemy A feminist comes to terms with the Men’s Rights movement.</em> Retrieved from</p>
 <p><a href="https://www.youtube.com/watch?v=3WMuzhQXJoY&amp;ab_channel=TEDxTalks">https://www.youtube.com/watch?v=3WMuzhQXJoY&amp;ab_channel=TEDxTalks</a></p>
 <blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
+<p>Written with help of<a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
 
