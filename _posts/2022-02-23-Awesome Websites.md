@@ -58,6 +58,9 @@
 
  [Artificial Intelligence ](#Artificial-Intelligence)
  [Coding Basics](#Coding-Basics)
+ * [algocademy](https://www.algocademy.com)
+
+
  [Courses](#Courses)
 
 
@@ -130,17 +133,22 @@
 
 
 ## Simulation
-
-
+https://www.windy.com/
  
 ## General
 
 * [statista](https://www.statista.com)
-* [ifitweremyhome](http://www.ifitweremyhome.com)
+* [ifitweremyhome](http://www.ifitweremyhome.com) - compare living conditions in your own country to those of another
+* [thetruesize](https://thetruesize.com/)
+* [windy](https://www.windy.com/) - provide webcam view of places and also weather details
+*  [theglobaleconomy](https://www.theglobaleconomy.com/) - provide up-to-date numbers for GDP, inflation, credit, interest rates, employment, and many other indicators
+* [populationpyramid](https://www.populationpyramid.net/) - provide age, gender wise details of population
+*  [George Hotz blog](https://geohot.github.io/blog/) -  hacker,   comma ai self driving cars 
+
+
 
 
  
-
 
 
 
