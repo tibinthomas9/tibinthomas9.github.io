@@ -147,6 +147,9 @@ https://www.windy.com/
 *  [First website](http://info.cern.ch/hypertext/WWW/TheProject.html) -  first website in the world   
 *  https://explorabl.es/
 *  https://ncase.me/
+*  https://www.geocaching.com/play
+*  https://www.rainymood.com/
+*  https://www.reddit.com/r/InternetIsBeautiful/
 
 
 
