@@ -160,6 +160,8 @@ https://www.windy.com/
 *  https://driveandlisten.herokuapp.com/
 *  https://www.exnge.com/
 *  https://sciurls.com/
+*  https://www.woot.com/
+*  https://www.amazon.com/Outlet/
 
 
 
