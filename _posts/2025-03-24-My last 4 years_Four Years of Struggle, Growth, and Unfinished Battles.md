@@ -16,13 +16,11 @@ When I quit my job, the market was booming. But by the time I returned to Canada
 Amidst all this, I experienced dating for the first time. It was new, exciting, and for a while, it felt like things were falling into place. But when I lost my job again, my focus shifted to survival, and the connection I had built faded. I moved into a shared house, hoping for more social interaction, but the environment was hostile.
 
 ## **Year 4: Finding Strength, Losing Control**
-This time, unemployment didn’t break me. I had EI benefits and a structured plan. But the job market was worse than ever. It took six months, but I finally secured a new job. I dove in completely, enjoying the work and even picking up Muay Thai for a while. Things felt good—until the pressures of relationships and marriage came crashing down. I turned 30, and with that milestone came a wave of self-doubt. I had lost all interest in arranged marriage but was struggling to find meaningful connections. I attended events, started conversations with strangers in cafes and libraries, and even got better at talking to people. Yet, every effort ended in rejection, disappointment, or silence.
+This time, unemployment didn’t break me. I had EI benefits and a structured plan. But the job market was worse than ever. It took six months, but I finally secured a new job. I dove in completely, enjoying the work and even picking up Muay Thai for a while. Things felt good—until the pressures of relationships and marriage came crashing down. Getting older added to the pressure. I had lost all interest in arranged marriage but was struggling to find meaningful connections. I attended events, started conversations with strangers in cafes and libraries, and even got better at talking to people. Yet, every effort ended in rejection, disappointment, or silence.
 
 Then came the breaking point—a severe flu in February. It shattered my momentum. I fell into a cycle of obsession over a particular type of partner, fixating on the idea that they were the right fit. The difficulty of finding someone turned this into an unhealthy obsession. I started getting triggered by simple things—seeing happy couples, dealing with rejection, or even random memories. The battle had evolved. Loneliness was no longer the only enemy; now, my own mind was turning against me.
 
 ## **Where Do I Go From Here?**
-These four years have been a warzone of struggles, wins, and relapses. I’ve built myself up and broken down multiple times. But despite everything, **I’m still here**. I still have a job. I still have ambition. And even though my confidence wavers, I know deep down that I’ve **underestimated myself** all along.
+The past four years have been a mix of struggles and growth, but I’m still here—standing strong with a job, ambition, and a deeper understanding of myself.
 
-The path forward isn’t about forcing external success. It’s about reclaiming control over my mind—**building confidence, detaching from obsessions, and moving forward without expectation**. I don’t have all the answers, but I do have the determination to keep pushing.
-
-Maybe the life I envisioned isn’t what I got, but that doesn’t mean I can’t create something even better.
+The path may not look like I imagined, but that’s what makes it exciting—I’m ready to create something even better!
